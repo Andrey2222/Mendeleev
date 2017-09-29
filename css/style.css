@@ -1,0 +1,36 @@
+.margin1 {
+	padding-right: 20%;
+}
+.margin2 {
+	padding-left: 20%;
+}
+.margin3 {
+	padding-left: 13px;
+}
+.margin4 {
+	padding-left: 35px;
+}
+.period {
+	text-align: center;
+}
+.element {
+	font-size: 25px;
+	padding-left: 10%;
+	font-weight: bold;
+
+}
+.element_name {
+	padding-left: 10%;
+}
+.element_name2 {
+	padding-left: 50px;
+}
+.color1 {
+	background-color: #E811B6;
+}
+.color2 {
+	background-color: yellow;
+}
+.color3 {
+	background-color: blue;
+}
